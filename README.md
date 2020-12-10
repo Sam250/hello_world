@@ -11,4 +11,6 @@ Go Go Power Rangers.
 
 The path is clear. 
 
-This won't be committed. 
+This won't be committed. Now it will. 
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
